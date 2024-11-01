@@ -1,0 +1,14 @@
+#payment_method_speed_payment_gateway + label {
+  display: flex !important;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+}
+
+#payment_method_speed_payment_gateway + label:before {
+  margin-top: -5px;
+}
+
+.payment_box.payment_method_speed_payment_gateway span {
+  display: block;
+}

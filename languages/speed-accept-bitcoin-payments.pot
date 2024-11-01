@@ -1,0 +1,224 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Speed Bitcoin Payments for WooCommerce\n"
+"POT-Creation-Date: 2024-08-08 12:23+0530\n"
+"PO-Revision-Date: 2023-09-26 16:12+0530\n"
+"Last-Translator: \n"
+"Language-Team: Speed\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;number_format_i18n;date_i18n;esc_html__;esc_html__;"
+"esc_html_x;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-Bookmarks: 42,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/validation.js:372
+msgid " seconds"
+msgstr ""
+
+#: assets/js/validation.js:376
+msgid "Please try after "
+msgstr ""
+
+#: includes/Admin_Notice.php:15
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/Admin_Notice.php:20
+#, php-format
+msgid ""
+"%1$s requires %2$s & %3$s to be installed and activated to function properly."
+msgstr ""
+
+#: includes/Admin_Notice.php:21
+msgid "Speed Bitcoin Payment Gateway for WooCommerce"
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:33
+#: includes/WooCommerce/Speed_Payment_Gateway.php:34
+msgid "Speed"
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:35
+msgid ""
+"Speed works by adding payment method on the checkout and then sending the "
+"details to Speed for verification."
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:36
+msgid ""
+"Start accepting bitcoin instantly using lightning network. Connect your "
+"account to the Speed Bitcoin plugin in just two steps."
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:87
+msgid "Payment mode"
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:163
+msgid "Speed Bitcoin Payment"
+msgstr ""
+
+#: includes/WooCommerce/Speed_Payment_Gateway.php:178
+msgid ""
+"Speed is a lightning-network-based Bitcoin payment gateway. Use a Bitcoin or "
+"Lightning wallet to make a payment."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:58
+#: includes/WooCommerce/views/speed_options.php:230
+msgid "Disconnect"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:77
+msgid ""
+"Oops! Something went wrong. Please try after <span id='waitTime'></span>."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:94
+msgid ""
+"<span>Your store is now enabled in <b>Test Mode</b>. Use this mode to safely "
+"test Bitcoin payments without processing real transactions.</span>"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:102
+msgid "Step 1"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:103
+msgid "Link your Speed account to accept Bitcoin on your WooCommerce store!"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:105
+msgid "Connect Speed"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:108
+msgid "Restricted keys are processing"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:112
+msgid "Restricted keys generated"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:120
+msgid "Step 2"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:121
+msgid ""
+"Provide the required plugin details you want to show on your WooCommerce "
+"store."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:136
+msgid "Plugin Setting"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:138
+msgid "Plugin Status"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:147
+msgid "Transaction Mode"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:156
+msgid "Payment Method Name"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:160
+msgid ""
+"The name entered here will appear on the payment method section of the "
+"checkout page."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:165
+msgid "Statement Descriptor"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:168
+msgid ""
+"This note will be visible to your customer in their wallet app when they "
+"initiate the payment."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:172
+msgid "Description"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:175
+msgid ""
+"This description entered here will appear on the payment method description "
+"section of the checkout page."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:179
+msgid "Select image you want to show during customer checkout"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:182
+msgid "No Logo"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:187
+msgid "Update Paid Orders To"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:201
+msgid ""
+"Payment not guaranteed yet at this stage! Do not yet provide the product or "
+"service."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:204
+msgid ""
+"To update the order status upon receipt of payment in Speed, select the "
+"desired status that you would like to set in WordPress."
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:211
+#: includes/WooCommerce/views/speed_options.php:221
+msgid "Save Changes"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:215
+msgid "Creating your webhooks"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:219
+msgid "Webhooks generated"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:236
+msgid "Are you sure you want to disconnect this plugin?"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:239
+msgid "Cancel"
+msgstr ""
+
+#: includes/WooCommerce/views/speed_options.php:240
+msgid "Continue"
+msgstr ""
+
+#: speed-accept-bitcoin-payments.php:129
+msgid "Configure"
+msgstr ""
+
+#: speed-accept-bitcoin-payments.php:301
+msgid "yes"
+msgstr ""
+
+#: speed-accept-bitcoin-payments.php:305
+msgid ""
+"Unfortunately, connect to your Speed account was denied. You can retry the "
+"authorization process or contact Speed support for assistance."
+msgstr ""
